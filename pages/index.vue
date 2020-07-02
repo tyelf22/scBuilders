@@ -10,7 +10,7 @@
       >
         <v-col class="text-center" cols="12">
           <h1 class="display-1 font-weight-thin mb-3 mainColor">SC Builders, inc</h1>
-          <h4 class="subheading">Trusted for over 23 years</h4>
+          <h4 class="subheading">Trusted for over 22 years</h4>
         </v-col>
       </v-row>
     </v-parallax>
